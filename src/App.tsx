@@ -1,5 +1,8 @@
+import Login from "./components/pages/auth/Login";
+import Register from "./components/pages/auth/Register";
+
 function App() {
-  return <h1>hii</h1>;
+  return <Register />;
 }
 
 export default App;
